@@ -1,0 +1,6 @@
+{
+  "name": "RutaPedidos - Gestión de Pedidos & Preventa",
+  "description": "Sistema móvil responsive para toma de pedidos en ruta con backend Supabase / PostgreSQL, control de salas, validación de Orden de Venta y catálogos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
